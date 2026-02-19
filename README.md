@@ -1,6 +1,6 @@
 # Glovo-Marketplace-Profitability-Analysis
 
-## Project Overview
+## Executive Summary
 
 This project was completed as part of a marketplace data analyst business case assessment.
 The objective was to analyze store-level profitability and identify structural drivers of margin loss. The focus was not just on GMV, but on contribution, understanding which stores were truly adding value and which were quietly eroding margins.
